@@ -27,3 +27,5 @@ console.log(MinusResult);
 console.log(MultiResult);
 console.log(DivResult);
 console.log(PowerResult);
+
+console.log("무야호")
