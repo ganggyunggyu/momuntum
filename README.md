@@ -1,2 +1,1 @@
-# momuntum
-# momuntum
+연습해서 리드미도 채워볼 거시다 ...
